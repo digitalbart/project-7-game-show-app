@@ -7,4 +7,4 @@
 - A player can guess a letter only once. After they’ve guessed a letter, your programming will need to disable that letter. 
 
 # Mockup
-![Desktop](https://github.com/digitalbart/project-7-game-show-app/blob/master/mockups/wheel-of-success.png
+![Desktop](https://github.com/digitalbart/project-7-game-show-app/blob/master/mockups/wheel-of-success.png)
